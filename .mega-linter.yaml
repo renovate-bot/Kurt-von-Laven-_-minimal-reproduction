@@ -1,3 +1,3 @@
 EXTENDS: https://raw.githubusercontent.com/ScribeMD/.github/0.14.2/.github/base.mega-linter.yaml
-JAVASCRIPT_ES_CLI_EXECUTABLE: [node, .yarn/releases/yarn-4.0.1.cjs, run, eslint]
-TYPESCRIPT_ES_CLI_EXECUTABLE: [node, .yarn/releases/yarn-4.0.1.cjs, run, eslint]
+JAVASCRIPT_ES_CLI_EXECUTABLE: [node, .yarn/releases/yarn-4.5.1.cjs, run, eslint]
+TYPESCRIPT_ES_CLI_EXECUTABLE: [node, .yarn/releases/yarn-4.5.1.cjs, run, eslint]
